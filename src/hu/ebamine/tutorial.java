@@ -8,18 +8,11 @@ public class tutorial {
 	static boolean chicken = true;
 	public static void main(String[] args){
 		
-		if (pig >= cow) 
+		for (int i = 0;i<200;i++)
 		{
-			System.out.println(sheep);
+			System.out.println (i);
 		}
-		else if (pig == 11)
-		{
-			System.out.println("The second if statement is true!");
-		}
-		else
-		{
-			System.out.println("None of the if statements are true!");
-		}
-		System.out.println(pig);
+	System.out.println ("congrats!");
 	}
 }
+
